@@ -5,6 +5,8 @@ This script converts a Swift Playground to an iOS App
 ## Development Environment
 This was made using Kotlin version 1.4.10
 
+If you don't have Kotlin installed, go to [this site](https://kotlinlang.org) and install it first.
+
 I compiled all of my code using the command line.
 
 ## Usage
