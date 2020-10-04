@@ -2,6 +2,11 @@
 
 This script converts a Swift Playground to an iOS App
 
+## Development Environment
+This was made using Kotlin version 1.4.10
+
+I compiled all of my code using the command line.
+
 ## Usage
 
 This is the first version of the program so it can only convert simple playgrounds right now that only contain Swift files and image files. First, the playground must be an Xcode playground. It can be made in Swift Playgrounds, but it must use an Xcode Playground template for the conversion to work.
@@ -32,4 +37,4 @@ The first page needs to be renamed `ContentView`
 ![Screenshot showing code running.] (playground.png)
 
 ## Helpful Websites
-[Kotlin Main Site] (https://kotlinlang.org)
+[Kotlin Main Site](https://kotlinlang.org)
