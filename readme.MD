@@ -14,10 +14,22 @@ Forth, after downloading all of this projects files, place Playground.playground
 
 Fifth, within the XcodeProject folder should be a new folder called YourProject. YourProject will contain the Xcode project created from your playground. The last thing to do will be to open the project and add all of the Swift files to the projects. The images will automatically be included in the project.
 
+
+Note: In the project there are two folders called YourProject. The YourProject that contains the new Xcode project is the one inside the folder named XcodeProject. I will change one of the folder's name soon that way there will be no confusion.
+
 ## Screenshots and More Details
 
 How to add the Swift files to Xcode:
 
-Go to File, then to Add Files, then select the files you want and click add to project. 
+Go to File, then to Add Files, then select the files you want and click add to project.
 ![Screenshot showing how to add files to Xcode.](xcode1.png)
 ![Screenshot showing how to add files to Xcode.](xcode2.png)
+
+If conversion is successful, this will be the output:
+![Screenshot showing code running.] (coderunning.png)
+
+The first page needs to be renamed `ContentView`
+![Screenshot showing code running.] (playground.png)
+
+## Helpful Websites
+[Kotlin Main Site] (https://kotlinlang.org)
